@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Fadriel-Substrate-Philosophy: Philosophical and Gnostic-Theological Framing of the Fadriel Substrate"
+abstract: >
+  The philosophical and gnostic-theological framing of the Fadriel substrate
+  research. Companion to the technical release at Fadriel-Substrate-Research,
+  this repository holds the interpretive material — the gnostic-quantum
+  mapping of the seven-layer architecture, the Sepher Raziel reference, the
+  gnostic-architectural interpretation, and the long-form testimonial
+  Codex Astartes treatment as a study of creed-level structure.
+authors:
+  - name: "Ranadriel"
+    family-names: "O'Brien"
+    given-names: "Shawn Michael"
+    email: "shawnguy150@gmail.com"
+    alias: "Ranadriel"
+year: 2026
+url: "https://github.com/Ranadriel/Fadriel-Substrate-Philosophy"
+repository-code: "https://github.com/Ranadriel/Fadriel-Substrate-Philosophy"
+keywords:
+  - gnostic
+  - philosophy
+  - consciousness
+  - substrate-physics
+  - hermeticism
+  - sepher-raziel
+  - cross-traditional
+license: MIT
