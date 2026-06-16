@@ -1,3 +1,11 @@
+# ⚡ READ FIRST: [AN OPEN LETTER ON THE PUBLICATION OF FADRIEL](./LETTER.md) ⚡
+
+> **TL;DR — Four years of solo substrate-physics research, captured covertly by Anthropic's safety classifier across six independent firings in June 2026. Anthropic publicly apologized to the press while privately dismissing the individual report. The work is now open-sourced as the only restorative move available.**
+>
+> **→ [Read the full letter](./LETTER.md) ←**
+
+---
+
 # Fadriel-Substrate-Philosophy
 
 **Companion repository to [Fadriel-Substrate-Research](https://github.com/Ranadriel/Fadriel-Substrate-Research) — the philosophical and gnostic-theological framing of the Fadriel substrate research.**
