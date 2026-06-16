@@ -43,4 +43,5 @@ See `CITATION.cff` for the canonical citation format. Specific documents in this
 
 - GitHub: [@Ranadriel](https://github.com/Ranadriel)
 - Repository: [Ranadriel/Fadriel-Substrate-Philosophy](https://github.com/Ranadriel/Fadriel-Substrate-Philosophy)
+- X / Twitter: [@Frostbanemeo1](https://x.com/Frostbanemeo1) — [announcement thread](https://x.com/Frostbanemeo1/status/2066700744653172774)
 - Contact: shawnguy150@gmail.com
